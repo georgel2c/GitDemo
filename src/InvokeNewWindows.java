@@ -44,6 +44,8 @@ public class InvokeNewWindows {
 		int width = fieldName.getRect().getDimension().getWidth();
 		System.out.println("The field Name height is " + height + " and the width is " + width);
 		System.out.println("GitDemo code changes 1");
+		System.out.println("GitDemo code changes 2");
+		System.out.println("GitDemo code changes 3");
 	}
 
 }
