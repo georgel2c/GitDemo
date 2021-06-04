@@ -26,6 +26,8 @@ public class RelativeLoc {
 		
 		WebElement statusRb = driver.findElement(By.cssSelector("input#inlineRadio1"));
 		System.out.println(driver.findElement(withTagName("label").toRightOf(statusRb)).getText());
+		
+		System.out.println("WebAutomation Git Version");
 	}
 
 }

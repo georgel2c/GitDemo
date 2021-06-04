@@ -46,6 +46,11 @@ public class InvokeNewWindows {
 		System.out.println("GitDemo code changes 1");
 		System.out.println("GitDemo code changes 2");
 		System.out.println("GitDemo code changes 3");
+		
+		//Continue from here
+		System.out.println("GitDemo code changes 4");
+		System.out.println("GitDemo code changes 5");
+		System.out.println("GitDemo code changes 6");
 	}
 
 }
