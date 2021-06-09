@@ -51,6 +51,16 @@ public class InvokeNewWindows {
 		System.out.println("GitDemo code changes 4");
 		System.out.println("GitDemo code changes 5");
 		System.out.println("GitDemo code changes 6");
+		
+		//New Develop Changes GIT branching
+				System.out.println("GitDemo code changes 10");
+				System.out.println("GitDemo code changes 11");
+				System.out.println("GitDemo code changes 12");
+	}
+	
+	public void getGITstatus()
+	{
+		System.out.println("This is GIT branching control");
 	}
 
 }
